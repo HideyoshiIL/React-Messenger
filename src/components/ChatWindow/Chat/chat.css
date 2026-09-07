@@ -1,0 +1,9 @@
+.userInfo {
+  text-align: center;
+  border: 2px solid rgb(253, 253, 253);
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #D6E4F0;
+   text-shadow: 0px 1px 2px #303030b0;
+}

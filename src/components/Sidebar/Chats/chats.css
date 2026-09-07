@@ -1,0 +1,37 @@
+.chatUser {
+  border: 1px solid rgb(253, 253, 253);
+  margin: 8px;
+  padding: 5px;
+  width: 300px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #D6E4F0;
+  box-shadow: 2px 2px 2px #d6e4f0e7;
+  cursor: pointer;
+}
+
+.chatUser:hover {
+  transform: scale(1.1);
+  transition: 0.20s;
+
+}
+
+a {
+  text-decoration: none;
+  color: #3A3A3A;
+  text-shadow: 0px 1px 1px #303030b0;
+}
+
+.Online {
+  margin-right: 15px;
+  color: rgb(0, 197, 0);
+  text-align: end;
+  font-size: 12px;
+}
+
+.Offline {
+  margin-right: 15px;
+  color: #585858e0;
+  font-size: 12px;
+  text-align: end;
+}
