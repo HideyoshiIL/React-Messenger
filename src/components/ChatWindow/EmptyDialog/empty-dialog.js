@@ -1,4 +1,4 @@
-
+import "./empty-dialog.css"
 
 function EmptyDialog() {
   return (
